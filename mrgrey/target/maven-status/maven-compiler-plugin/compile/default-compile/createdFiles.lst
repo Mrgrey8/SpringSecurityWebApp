@@ -2,4 +2,5 @@ com\mrgrey\springsecurity\configuration\SecurityConfiguration.class
 com\mrgrey\springsecurity\configuration\SpringMvcInitializer.class
 com\mrgrey\springsecurity\controller\HelloWorldController.class
 com\mrgrey\springsecurity\configuration\SecurityWebApplicationInitializer.class
+com\mrgrey\springsecurity\configuration\CustomSuccessHandler.class
 com\mrgrey\springsecurity\configuration\HelloWorldConfiguration.class

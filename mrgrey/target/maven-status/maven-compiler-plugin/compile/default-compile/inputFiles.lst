@@ -1,5 +1,6 @@
-C:\Users\admin\workspace\mrgrey\src\main\java\com\mrgrey\springsecurity\configuration\HelloWorldConfiguration.java
-C:\Users\admin\workspace\mrgrey\src\main\java\com\mrgrey\springsecurity\configuration\SpringMvcInitializer.java
-C:\Users\admin\workspace\mrgrey\src\main\java\com\mrgrey\springsecurity\configuration\SecurityWebApplicationInitializer.java
-C:\Users\admin\workspace\mrgrey\src\main\java\com\mrgrey\springsecurity\configuration\SecurityConfiguration.java
-C:\Users\admin\workspace\mrgrey\src\main\java\com\mrgrey\springsecurity\controller\HelloWorldController.java
+C:\Users\admin\git\mrgrey\src\main\java\com\mrgrey\springsecurity\controller\HelloWorldController.java
+C:\Users\admin\git\mrgrey\src\main\java\com\mrgrey\springsecurity\configuration\HelloWorldConfiguration.java
+C:\Users\admin\git\mrgrey\src\main\java\com\mrgrey\springsecurity\configuration\SecurityConfiguration.java
+C:\Users\admin\git\mrgrey\src\main\java\com\mrgrey\springsecurity\configuration\CustomSuccessHandler.java
+C:\Users\admin\git\mrgrey\src\main\java\com\mrgrey\springsecurity\configuration\SecurityWebApplicationInitializer.java
+C:\Users\admin\git\mrgrey\src\main\java\com\mrgrey\springsecurity\configuration\SpringMvcInitializer.java

@@ -1,4 +1,7 @@
-<%@ page isELIgnored="false"%>
+<!DOCTYPE web-app PUBLIC
+ "-//Sun Microsystems, Inc.//DTD Web Application 2.4//EN"
+ "http://java.sun.com/dtd/web-app_2_4.dtd" >
+ <%@ page isELIgnored="false"%>
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1" pageEncoding="ISO-8859-1"%>
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
 <%@ taglib prefix="sec" uri="http://www.springframework.org/security/tags"%>
@@ -8,9 +11,9 @@
     <title>Welcome page</title>
 </head>
 <body>
-	Greeting: ${greeting}
+	Greeting: ${user}
 	<br/>
-     Dear <strong>${user}</strong>, Welcome to Home Page.
+     Dear <strong> ${user} </strong>, Welcome to Home Page.
     <a href="<c:url value="/logout" />">Logout</a>
     
     <br/>
